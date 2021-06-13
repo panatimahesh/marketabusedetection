@@ -1,0 +1,18 @@
+2021-06-13 20:03:45,287 - __main__ - INFO - The Market Abuse detection application has been started
+2021-06-13 20:03:45,613 - marketabusedetection - INFO - Inside function marketAbuseDetectionApp
+2021-06-13 20:03:45,626 - marketabusedetection - INFO - Inside function getStockDataYahoo
+2021-06-13 20:03:46,002 - marketabusedetection - INFO - The function getStockDataYahoo execution has been complete
+2021-06-13 20:03:46,013 - marketabusedetection - INFO - Inside function getTradersData
+2021-06-13 20:03:46,022 - marketabusedetection - INFO - The function getTradersData execution has been complete
+2021-06-13 20:03:46,034 - marketabusedetection - INFO - Inside function cleanseYahooStockData
+2021-06-13 20:03:46,060 - marketabusedetection - INFO - The function cleanseYahooStockData execution has been complete
+2021-06-13 20:03:46,092 - marketabusedetection - INFO - Inside function cleanseTradersData
+2021-06-13 20:03:46,140 - marketabusedetection - INFO - The function cleanseTradersData execution has been complete
+2021-06-13 20:03:46,154 - marketabusedetection - INFO - Inside function findAbuse
+2021-06-13 20:03:46,191 - marketabusedetection - INFO - The function findAbuse execution has been complete
+2021-06-13 20:03:46,208 - marketabusedetection - INFO - Inside function rankByOrders
+2021-06-13 20:03:46,227 - marketabusedetection - INFO - The function rankByOrders execution has been complete
+2021-06-13 20:03:46,239 - marketabusedetection - INFO - Inside function findCountByCountry
+2021-06-13 20:03:46,250 - marketabusedetection - INFO - The function findCountByCountry execution has been complete
+2021-06-13 20:03:46,258 - marketabusedetection - INFO - The function marketAbuseDetectionApp execution has been complete
+2021-06-13 20:03:46,258 - __main__ - INFO - The Market Abuse detection application has been completed

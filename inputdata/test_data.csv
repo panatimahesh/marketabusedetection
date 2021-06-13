@@ -1,0 +1,6 @@
+countryCode,firstName,lastName,traderId,stockSymbol,stockName,tradeId,price,volume,tradeDatetime
+TV,Vanessa,Green,MUVGtYHdeMdauAxzEJvt,FB,Facebook,,1701.76,58.0,2020-04-03 07:03:32
+,,,,FB,Facebook,P5-3756422C,,98.0,2020-01-13 08:29:53
+UK,Brandi,Robbins,JTzVqzzIkFlrYUQbhnOR,AMZN,Amazon,X0-7401234c,1857.63056,30.0,2020-03-16 07:18:39
+IN,Allison,Davis,TzqyQTQjZGeLZuJqlLaQ,AMZN,Amazon,K3-3189326K,2078.4403,32.0,2020-02-07 13:59:03
+UK,Blake,Martin,WVcMKILUHtBkEahrPLrG,FB,Facebook,U4-1266883G,1809.6,212.0,2020-08-01 02:57:54
